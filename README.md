@@ -6,9 +6,10 @@ Welcome to my LeetCode solutions repository! In this repository, I document my s
 
 ## Daily Commitment
 
-- **Day 1**: [Problem Title](link_to_problem) - Brief description of the problem and solution approach.
-- **Day 2**: [Problem Title](link_to_problem) - Brief description of the problem and solution approach.
-- **Day 3**: [Problem Title](link_to_problem) - Brief description of the problem and solution approach.
+- **Day 1**: 1768. Merge Strings Alternately
+   **Day 1**: 151. Reverse Words in a String
+- **Day 2**: 
+- **Day 3**: 
 - ...
 
 # Connect with Me
