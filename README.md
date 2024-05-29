@@ -7,9 +7,9 @@ Welcome to my LeetCode solutions repository! In this repository, I document my s
 ## Daily Commitment
 
 - **Day 1**: 1768. Merge Strings Alternately
-- **Day 1**: 151. Reverse Words in a String
-- **Day 2**: 
+- **Day 2**: 151. Reverse Words in a String
 - **Day 3**: 
+- **Day 4**: 
 - ...
 
 # Connect with Me
