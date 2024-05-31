@@ -9,7 +9,7 @@ Welcome to my LeetCode solutions repository! In this repository, I document my s
 - **Day 1**: 1768. Merge Strings Alternately
 - **Day 2**: 151. Reverse Words in a String
 - **Day 3**: 678. Valid Parenthesis String
-- - **Day 4**: 
+- **Day 4**: 374. Guess Number Higher or Lower
 - ...
 
 # Connect with Me
