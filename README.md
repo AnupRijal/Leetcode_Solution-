@@ -11,6 +11,7 @@ Welcome to my LeetCode solutions repository! In this repository, I document my s
 - **Day 3**: 678. Valid Parenthesis String
 - **Day 4**: 374. Guess Number Higher or Lower
 - **Day 4**: 283. Move Zeroes
+- **Day 5**: 424. Longest Repeating Character Replacement
 
 # Connect with Me
 
