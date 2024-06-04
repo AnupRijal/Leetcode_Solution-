@@ -13,6 +13,7 @@ Welcome to my LeetCode solutions repository! In this repository, I document my s
 - **Day 4**: 283. Move Zeroes
 - **Day 5**: 424. Longest Repeating Character Replacement
 - **Day 6**: 1374. Generate a String With Characters That Have Odd Counts
+- **Day 7**: 2894. Divisible and Non-divisible Sums Difference
 
 # Connect with Me
 
