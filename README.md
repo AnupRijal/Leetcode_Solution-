@@ -14,6 +14,7 @@ Welcome to my LeetCode solutions repository! In this repository, I document my s
 - **Day 5**: 424. Longest Repeating Character Replacement
 - **Day 6**: 1374. Generate a String With Characters That Have Odd Counts
 - **Day 7**: 2894. Divisible and Non-divisible Sums Difference
+- **Day 8**: 794. Valid Tic-Tac-Toe State
 
 # Connect with Me
 
