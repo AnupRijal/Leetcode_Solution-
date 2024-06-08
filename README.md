@@ -19,7 +19,7 @@ Welcome to my LeetCode solutions repository! In this repository, I document my s
 
 # Connect with Me
 
-If you have any questions, suggestions, or just want to chat about coding and LeetCode, feel free to connect with me:
+If you have any questions, suggestions, or just want to chat about coding and LeetCode, feel free to connect me:
 
 - Email: anup.rijal247@gmail.com
 - LinkedIn: https://www.linkedin.com/in/anup-rijal-996ba5287/
