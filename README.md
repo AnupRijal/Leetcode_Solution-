@@ -17,6 +17,7 @@ Welcome to my LeetCode solutions repository! In this repository, I document my s
 - **Day 8**: 794. Valid Tic-Tac-Toe State
 - **Day 9**: 2578. Split With Minimum Sum
 - **Day 10**: 473. Matchsticks to Square
+- **Day 11**: 88. Merge Sorted Array
 
 # Connect with Me
 
