@@ -18,6 +18,7 @@ Welcome to my LeetCode solutions repository! In this repository, I document my s
 - **Day 9**: 2578. Split With Minimum Sum
 - **Day 10**: 473. Matchsticks to Square
 - **Day 11**: 88. Merge Sorted Array
+- **Day 12**: 2839. Check if Strings Can be Made Equal With Operations I
 
 # Connect with Me
 
