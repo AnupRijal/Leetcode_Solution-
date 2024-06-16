@@ -21,6 +21,7 @@ Welcome to my LeetCode solutions repository! In this repository, I document my s
 - **Day 12**: 2839. Check if Strings Can be Made Equal With Operations I
 - **Day 13**: 389. Find the Difference
 - **Day 14**: 410. Split Array Largest Sum
+- **Day 15**: 27. Remove Element
 
 # Connect with Me
 
