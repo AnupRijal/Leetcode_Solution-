@@ -23,6 +23,7 @@ Welcome to my LeetCode solutions repository! In this repository, I document my s
 - **Day 14**: 410. Split Array Largest Sum
 - **Day 15**: 27. Remove Element
 - **Day 15**: 1929. Concatenation of Array
+- **Day 16**: 1784. Check if Binary String Has at Most One Segment of Ones
 
 # Connect with Me
 
