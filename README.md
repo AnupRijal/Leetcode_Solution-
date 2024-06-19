@@ -24,6 +24,7 @@ Welcome to my LeetCode solutions repository! In this repository, I document my s
 - **Day 15**: 27. Remove Element
 - **Day 15**: 1929. Concatenation of Array
 - **Day 16**: 1784. Check if Binary String Has at Most One Segment of Ones
+- **Day 17**: 757. Set Intersection Size At Least Two
 
 # Connect with Me
 
