@@ -25,6 +25,8 @@ Welcome to my LeetCode solutions repository! In this repository, I document my s
 - **Day 15**: 1929. Concatenation of Array
 - **Day 16**: 1784. Check if Binary String Has at Most One Segment of Ones
 - **Day 17**: 757. Set Intersection Size At Least Two
+- **Day 18**:2580. Count Ways to Group Overlapping Ranges
+
 
 # Connect with Me
 
