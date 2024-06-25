@@ -28,6 +28,7 @@ Welcome to my LeetCode solutions repository! In this repository, I document my s
 - **Day 18**:2580. Count Ways to Group Overlapping Ranges
 - **Day 19**: 2294. Partition Array Such That Maximum Difference Is K
 - **Day 20**: 1641. Count Sorted Vowel Strings
+- **Day 21**: 2769. Find the Maximum Achievable Number
 
 
 
