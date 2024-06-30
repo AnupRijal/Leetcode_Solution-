@@ -30,6 +30,7 @@ Welcome to my LeetCode solutions repository! In this repository, I document my s
 - **Day 20**: 1641. Count Sorted Vowel Strings
 - **Day 21**: 1913. Maximum Product Difference Between Two Pairs
 - **Day 22**: 1744. Can You Eat Your Favorite Candy on Your Favorite Day?
+- **Day 23**: 912. Sort an Array
 
 
 
